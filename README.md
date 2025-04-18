@@ -1,0 +1,2 @@
+# MeetingWhisperer
+MCP based project 
